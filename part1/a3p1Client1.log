@@ -1,0 +1,3 @@
+a3p1Client1.c a3p1Client1.log a3p1Server1.c a3p1Server1.log client1 Makefile server1 
+total 41 -rw-------+ 1 whh160230 sn  3404 Jul 30 09:34 a3p1Client1.c -rw-------+ 1 whh160230 sn     0 Jul 30 09:38 a3p1Client1.log -rw-------+ 1 whh160230 sn  5622 Jul 30 08:32 a3p1Server1.c -rw-------+ 1 whh160230 sn    61 Jul 30 09:38 a3p1Server1.log -rwx--x--x+ 1 whh160230 sn 13672 Jul 30 09:37 client1 -rw-------+ 1 whh160230 sn   195 Jul 30 07:11 Makefile -rwx--x--x+ 1 whh160230 sn 14104 Jul 30 09:37 server1 
+Mon Jul 30 09:38:10 CDT 2018 

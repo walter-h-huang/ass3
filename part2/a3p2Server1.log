@@ -1,0 +1,39 @@
+Mon Jul 30 09:44:15 2018
+date; ls -l junk.txt; touch junk.txt; ls -l junk.txt 
+
+Mon Jul 30 09:44:15 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:17 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:18 2018
+date; ls -l junk.txt; touch junk.txt; ls -l junk.txt 
+
+Mon Jul 30 09:44:20 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:21 2018
+date; ls -l junk.txt; touch junk.txt; ls -l junk.txt 
+
+Mon Jul 30 09:44:22 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:24 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:24 2018
+date; ls -l junk.txt; touch junk.txt; ls -l junk.txt 
+
+Mon Jul 30 09:44:26 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:28 2018
+date; ls -l junk.txt; touch junk.txt; ls -l junk.txt 
+
+Mon Jul 30 09:44:28 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
+Mon Jul 30 09:44:30 2018
+date; ls -l junk.txt; rm -f junk.txt; ls -l junk.txt
+
